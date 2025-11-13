@@ -1,37 +1,21 @@
-<svg viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="fireGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff0000">
-        <animate attributeName="offset" values="0;1;0" dur="4s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#ffae00">
-        <animate attributeName="offset" values="0.5;1.5;0.5" dur="4s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#fff700">
-        <animate attributeName="offset" values="1;2;1" dur="4s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-    font-size="48" font-family="monospace" font-weight="bold" fill="url(#fireGradient)">
-    Welcome to my profile!
-    <animate attributeName="x" values="50%;60%;40%;50%" dur="6s" repeatCount="indefinite" />
-  </text>
-</svg>
-
-
-
 <div align="center">
-  <img src="https://i.redd.it/p3dzbzxkzqx61.gif" width="600px" alt="Rengoku gif" />
+
+  <img src="https://i.pinimg.com/originals/63/6f/bf/636fbf5e39883e0da78b69b58e77cf61.gif" width="400px" alt="Rengoku gif" />
+
+  <!-- 🔥 GIF animado de título -->
+  <h1 align="center">
+    <img src="https://media.tenor.com/wx2Iv6XtPjIAAAAi/fire-text-welcome.gif" width="300px" alt="Welcome to my profile!"/>
+  </h1>
+
 </div>
 
 ---
 
-###  About me
+### 💫 About me
 
- Hi! I’m **Jiulia Muniz** — a passionate developer in training at **SENAI Roberto Mange**,  
+Hi! I’m **Jiulia Muniz** — a passionate developer in training at **SENAI Roberto Mange**,  
 currently working at **Bosch Digital Solutions**.  
-I love learning about **web development, technology and innovation** 
+I love learning about **web development, technology and innovation** 🚀
 
 ---
 
@@ -39,12 +23,10 @@ I love learning about **web development, technology and innovation**
 
 <div align="center">
   
-  <!-- Linguagens -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
-  
+
   <br/>
 
-  <!-- Outras ferramentas -->
   <img src="https://skillicons.dev/icons?i=nodejs,tailwind,figma,react,angular,dart,flutter" />
 
 </div>
