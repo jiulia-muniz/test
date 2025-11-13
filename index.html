@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome 🔥</title>
+  <style>
+    body {
+      background: #111;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    h1 {
+      color: #ffae00;
+      font-family: monospace;
+      font-size: 48px;
+      animation: flame 2s ease-in-out infinite alternate;
+    }
+    @keyframes flame {
+      0% { transform: scale(1) rotate(0deg); color: #ff0000; }
+      50% { transform: scale(1.1) rotate(3deg); color: #ffae00; }
+      100% { transform: scale(1) rotate(-3deg); color: #fff700; }
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to my profile!</h1>
+</body>
+</html>
