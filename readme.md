@@ -1,21 +1,18 @@
+deixei assim, mas queria que o texto tivesse um movimento de cores na paleta do regoku que se mexesse dentro, e queria que a letra andasse ate o final e voltasse do começo
+
+<h1 align="center"> Welcome to my profile! </h1>
+
 <div align="center">
-
-  <img src="https://i.pinimg.com/originals/63/6f/bf/636fbf5e39883e0da78b69b58e77cf61.gif" width="400px" alt="Rengoku gif" />
-
-  <!-- 🔥 GIF animado de título -->
-  <h1 align="center">
-    <img src="https://media.tenor.com/wx2Iv6XtPjIAAAAi/fire-text-welcome.gif" width="300px" alt="Welcome to my profile!"/>
-  </h1>
-
+  <img src="https://i.redd.it/p3dzbzxkzqx61.gif" width="400px" alt="Rengoku gif" />
 </div>
 
 ---
 
-### 💫 About me
+###  About me
 
-Hi! I’m **Jiulia Muniz** — a passionate developer in training at **SENAI Roberto Mange**,  
+ Hi! I’m **Jiulia Muniz** — a passionate developer in training at **SENAI Roberto Mange**,  
 currently working at **Bosch Digital Solutions**.  
-I love learning about **web development, technology and innovation** 🚀
+I love learning about **web development, technology and innovation** 
 
 ---
 
@@ -23,10 +20,12 @@ I love learning about **web development, technology and innovation** 🚀
 
 <div align="center">
   
+  <!-- Linguagens -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
-
+  
   <br/>
 
+  <!-- Outras ferramentas -->
   <img src="https://skillicons.dev/icons?i=nodejs,tailwind,figma,react,angular,dart,flutter" />
 
 </div>
