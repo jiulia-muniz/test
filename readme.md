@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+deixei assim, mas queria que o texto tivesse um movimento de cores na paleta do regoku que se mexesse dentro, e queria que a letra andasse ate o final e voltasse do começo
+
+>>>>>>> 1f3ee255443970b11b2488117586afae409c310d
 <h1 align="center"> Welcome to my profile! </h1>
 
 <div align="center">
