@@ -1,16 +1,16 @@
-<h1 align="center">🔥 Welcome to my profile! 🔥</h1>
+<h1 align="center"> Welcome to my profile! </h1>
 
 <div align="center">
-  <img src="https://i.redd.it/p3dzbzxkzqx61.gif" width="300px" alt="Rengoku gif" />
+  <img src="https://i.redd.it/p3dzbzxkzqx61.gif" width="400px" alt="Rengoku gif" />
 </div>
 
 ---
 
-### 🧠 About me
+###  About me
 
-✨ Hi! I’m **Jiulia Muniz** — a passionate developer in training at **SENAI Roberto Mange**,  
+ Hi! I’m **Jiulia Muniz** — a passionate developer in training at **SENAI Roberto Mange**,  
 currently working at **Bosch Digital Solutions**.  
-I love learning about **web development, technology and innovation** 💻💡
+I love learning about **web development, technology and innovation** 
 
 ---
 
@@ -24,17 +24,9 @@ I love learning about **web development, technology and innovation** 💻💡
   <br/>
 
   <!-- Outras ferramentas -->
-  <img src="https://skillicons.dev/icons?i=nodejs,tailwind,figma,vercel,windows" />
+  <img src="https://skillicons.dev/icons?i=nodejs,tailwind,figma,react,angular,dart,flutter" />
 
 </div>
-
----
-
-### 🚀 What I’m learning now
-
-- React.js + Vite ⚛️  
-- FastAPI (Python) 🐍  
-- Database basics (SQLite / PostgreSQL) 🗃️  
 
 ---
 
