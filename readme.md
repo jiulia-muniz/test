@@ -25,7 +25,7 @@ I love learning about **web development, technology and innovation**
   <br/>
 
   <!-- Outras ferramentas -->
-  <img src="https://skillicons.dev/icons?i=nodejs,tailwind,figma,react,angular,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,tailwind,figma,angular,dart,flutter" />
 
 </div>
 
